@@ -1,2 +1,2 @@
-# aqa_project
+# automation_project
 It's the first repository created during AQA course.
