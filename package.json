@@ -1,0 +1,14 @@
+{
+  "name": "automation_project",
+  "version": "1.0.0",
+  "description": "It's the first repository created during AQA course. Here you can find results of my attempts to become AQA engineer and my homeworks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "axios": "^1.6.0"
+  }
+}
