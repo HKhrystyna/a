@@ -63,7 +63,8 @@ console.log(arrayOfEvens(initialArray2)); // виводить [ 2, 6, 12 ]
 
 function createArray(element) {
     const arr = [];
-    currentElement = element;
+    let currentElement = element;
+
     
     while (currentElement <= 30) {
         arr.push(currentElement);
